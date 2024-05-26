@@ -1,0 +1,6 @@
+librosa
+whisper
+pysrt
+six
+ffmpeg-python
+torch
